@@ -27,13 +27,13 @@
     },
     "maximum_lanes": "12",
     "ready_lanes": {
-      "delay_minutes": "35",
-      "lanes_open": "3",
+      "delay_minutes": "38",
+      "lanes_open": "2",
       "operational_status": "delay",
       "update_time": "At 2:00 pm MDT"
     },
     "standard_lanes": {
-      "delay_minutes": "38",
+      "delay_minutes": "40",
       "lanes_open": "1",
       "operational_status": "delay",
       "update_time": "At 2:00 pm MDT"
