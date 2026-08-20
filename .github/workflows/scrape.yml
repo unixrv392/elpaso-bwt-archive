@@ -1,0 +1,36 @@
+name: Scrape CBP border wait times
+
+on:
+  schedule:
+    # Every 10 minutes. GitHub schedules are best-effort and often run a few
+    # minutes late; each reading carries its own fetched_at timestamp so the
+    # jitter doesn't matter.
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch and archive
+        id: scrape
+        run: ./scrape.sh
+
+      - name: Commit and push
+        if: steps.scrape.outputs.changed == '1'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add latest.json state data
+          git commit -m "Archive readings $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push

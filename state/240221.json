@@ -1,0 +1,60 @@
+{
+  "border": "Mexican Border",
+  "commercial_vehicle_lanes": {
+    "FAST_lanes": {
+      "delay_minutes": "",
+      "lanes_open": "",
+      "operational_status": "Update Pending",
+      "update_time": ""
+    },
+    "maximum_lanes": "6",
+    "standard_lanes": {
+      "delay_minutes": "",
+      "lanes_open": "",
+      "operational_status": "Update Pending",
+      "update_time": ""
+    }
+  },
+  "construction_notice": "",
+  "crossing_name": "",
+  "hours": "24 hrs/day",
+  "passenger_vehicle_lanes": {
+    "NEXUS_SENTRI_lanes": {
+      "delay_minutes": "",
+      "lanes_open": "",
+      "operational_status": "Update Pending",
+      "update_time": ""
+    },
+    "maximum_lanes": "13",
+    "ready_lanes": {
+      "delay_minutes": "",
+      "lanes_open": "",
+      "operational_status": "Update Pending",
+      "update_time": ""
+    },
+    "standard_lanes": {
+      "delay_minutes": "",
+      "lanes_open": "",
+      "operational_status": "Update Pending",
+      "update_time": ""
+    }
+  },
+  "pedestrian_lanes": {
+    "maximum_lanes": "12",
+    "ready_lanes": {
+      "delay_minutes": "",
+      "lanes_open": "",
+      "operational_status": "Update Pending",
+      "update_time": ""
+    },
+    "standard_lanes": {
+      "delay_minutes": "",
+      "lanes_open": "",
+      "operational_status": "Update Pending",
+      "update_time": ""
+    }
+  },
+  "port_name": "El Paso",
+  "port_number": "240221",
+  "port_status": "Open"
+}

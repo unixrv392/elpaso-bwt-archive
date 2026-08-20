@@ -1,0 +1,60 @@
+{
+  "border": "Mexican Border",
+  "commercial_vehicle_lanes": {
+    "FAST_lanes": {
+      "delay_minutes": "",
+      "lanes_open": "",
+      "operational_status": "N/A",
+      "update_time": ""
+    },
+    "maximum_lanes": "N/A",
+    "standard_lanes": {
+      "delay_minutes": "",
+      "lanes_open": "",
+      "operational_status": "N/A",
+      "update_time": ""
+    }
+  },
+  "construction_notice": "Ready Lanes are open at PDN.  See www.getyouhome.gov for more information. Tune in to AM 1620 for border crossing information.",
+  "crossing_name": "Paso Del Norte (PDN)",
+  "hours": "24 hrs/day",
+  "passenger_vehicle_lanes": {
+    "NEXUS_SENTRI_lanes": {
+      "delay_minutes": "5",
+      "lanes_open": "1",
+      "operational_status": "no delay",
+      "update_time": "At 2:00 pm MDT"
+    },
+    "maximum_lanes": "12",
+    "ready_lanes": {
+      "delay_minutes": "35",
+      "lanes_open": "3",
+      "operational_status": "delay",
+      "update_time": "At 2:00 pm MDT"
+    },
+    "standard_lanes": {
+      "delay_minutes": "38",
+      "lanes_open": "1",
+      "operational_status": "delay",
+      "update_time": "At 2:00 pm MDT"
+    }
+  },
+  "pedestrian_lanes": {
+    "maximum_lanes": "14",
+    "ready_lanes": {
+      "delay_minutes": "5",
+      "lanes_open": "3",
+      "operational_status": "no delay",
+      "update_time": "At 2:00 pm MDT"
+    },
+    "standard_lanes": {
+      "delay_minutes": "5",
+      "lanes_open": "2",
+      "operational_status": "no delay",
+      "update_time": "At 2:00 pm MDT"
+    }
+  },
+  "port_name": "El Paso",
+  "port_number": "240202",
+  "port_status": "Open"
+}

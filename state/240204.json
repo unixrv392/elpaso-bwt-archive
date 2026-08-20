@@ -1,0 +1,60 @@
+{
+  "border": "Mexican Border",
+  "commercial_vehicle_lanes": {
+    "FAST_lanes": {
+      "delay_minutes": "",
+      "lanes_open": "",
+      "operational_status": "N/A",
+      "update_time": ""
+    },
+    "maximum_lanes": "N/A",
+    "standard_lanes": {
+      "delay_minutes": "",
+      "lanes_open": "",
+      "operational_status": "N/A",
+      "update_time": ""
+    }
+  },
+  "construction_notice": "Be prepared for construction that may cause some delays in the southbound lanes of the Stanton bridge; early January - February.  Tune in to AM 1620 for border crossing information.",
+  "crossing_name": "Stanton DCL",
+  "hours": "6 am-Midnight",
+  "passenger_vehicle_lanes": {
+    "NEXUS_SENTRI_lanes": {
+      "delay_minutes": "5",
+      "lanes_open": "3",
+      "operational_status": "no delay",
+      "update_time": "At 2:00 pm MDT"
+    },
+    "maximum_lanes": "3",
+    "ready_lanes": {
+      "delay_minutes": "",
+      "lanes_open": "",
+      "operational_status": "N/A",
+      "update_time": ""
+    },
+    "standard_lanes": {
+      "delay_minutes": "",
+      "lanes_open": "",
+      "operational_status": "Lanes Closed",
+      "update_time": ""
+    }
+  },
+  "pedestrian_lanes": {
+    "maximum_lanes": "N/A",
+    "ready_lanes": {
+      "delay_minutes": "",
+      "lanes_open": "",
+      "operational_status": "N/A",
+      "update_time": ""
+    },
+    "standard_lanes": {
+      "delay_minutes": "",
+      "lanes_open": "",
+      "operational_status": "N/A",
+      "update_time": ""
+    }
+  },
+  "port_name": "El Paso",
+  "port_number": "240204",
+  "port_status": "Open"
+}
