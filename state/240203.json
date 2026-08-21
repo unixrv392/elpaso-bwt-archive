@@ -48,8 +48,8 @@
       "update_time": ""
     },
     "standard_lanes": {
-      "delay_minutes": "10",
-      "lanes_open": "3",
+      "delay_minutes": "30",
+      "lanes_open": "4",
       "operational_status": "delay",
       "update_time": "At 8:00 am MDT"
     }
