@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-23T05:41:53Z",
+  "fetched_at": "2026-08-23T06:16:03Z",
   "ports": [
     {
       "port_number": "240221",
@@ -7,8 +7,8 @@
       "port_name": "El Paso",
       "crossing_name": "",
       "hours": "24 hrs/day",
-      "date": "8/22/2026",
-      "time": "23:34:05",
+      "date": "8/23/2026",
+      "time": "00:09:10",
       "port_status": "Open",
       "commercial_vehicle_lanes": {
         "maximum_lanes": "6",
@@ -69,20 +69,20 @@
       "port_name": "El Paso",
       "crossing_name": "Bridge of the Americas (BOTA)",
       "hours": "24 hrs/day",
-      "date": "8/22/2026",
-      "time": "23:34:05",
+      "date": "8/23/2026",
+      "time": "00:09:10",
       "port_status": "Open",
       "commercial_vehicle_lanes": {
         "maximum_lanes": "3",
         "standard_lanes": {
           "update_time": "",
-          "operational_status": "Lanes Closed",
+          "operational_status": "Update Pending",
           "delay_minutes": "",
           "lanes_open": ""
         },
         "FAST_lanes": {
           "update_time": "",
-          "operational_status": "Lanes Closed",
+          "operational_status": "Update Pending",
           "delay_minutes": "",
           "lanes_open": ""
         }
@@ -90,37 +90,37 @@
       "passenger_vehicle_lanes": {
         "maximum_lanes": "14",
         "standard_lanes": {
-          "update_time": "At 11:00 pm MDT",
-          "operational_status": "delay",
-          "delay_minutes": "75",
-          "lanes_open": "3"
+          "update_time": "",
+          "operational_status": "Update Pending",
+          "delay_minutes": "",
+          "lanes_open": ""
         },
         "NEXUS_SENTRI_lanes": {
           "update_time": "",
-          "operational_status": "N/A",
+          "operational_status": "Update Pending",
           "delay_minutes": "",
           "lanes_open": ""
         },
         "ready_lanes": {
-          "update_time": "At 11:00 pm MDT",
-          "operational_status": "delay",
-          "delay_minutes": "75",
-          "lanes_open": "5"
+          "update_time": "",
+          "operational_status": "Update Pending",
+          "delay_minutes": "",
+          "lanes_open": ""
         }
       },
       "pedestrian_lanes": {
         "maximum_lanes": "4",
         "standard_lanes": {
-          "update_time": "At 11:00 pm MDT",
-          "operational_status": "no delay",
-          "delay_minutes": "5",
-          "lanes_open": "1"
+          "update_time": "",
+          "operational_status": "Update Pending",
+          "delay_minutes": "",
+          "lanes_open": ""
         },
         "ready_lanes": {
-          "update_time": "At 11:00 pm MDT",
-          "operational_status": "no delay",
-          "delay_minutes": "5",
-          "lanes_open": "1"
+          "update_time": "",
+          "operational_status": "Update Pending",
+          "delay_minutes": "",
+          "lanes_open": ""
         }
       },
       "construction_notice": "BOTA Passenger/Ready Lanes is open west side of port; Passenger Hrs 24 hours/7days, BOTA CARGO Mon-FRI 6 am to 4 pm. SAT/SUN CLOSED. Tune into AM 1610 for info."
@@ -131,20 +131,20 @@
       "port_name": "El Paso",
       "crossing_name": "Paso Del Norte (PDN)",
       "hours": "24 hrs/day",
-      "date": "8/22/2026",
-      "time": "23:34:05",
+      "date": "8/23/2026",
+      "time": "00:09:10",
       "port_status": "Open",
       "commercial_vehicle_lanes": {
         "maximum_lanes": "N/A",
         "standard_lanes": {
           "update_time": "",
-          "operational_status": "N/A",
+          "operational_status": "Update Pending",
           "delay_minutes": "",
           "lanes_open": ""
         },
         "FAST_lanes": {
           "update_time": "",
-          "operational_status": "N/A",
+          "operational_status": "Update Pending",
           "delay_minutes": "",
           "lanes_open": ""
         }
@@ -152,37 +152,37 @@
       "passenger_vehicle_lanes": {
         "maximum_lanes": "12",
         "standard_lanes": {
-          "update_time": "At 11:00 pm MDT",
-          "operational_status": "delay",
-          "delay_minutes": "75",
-          "lanes_open": "1"
+          "update_time": "",
+          "operational_status": "Update Pending",
+          "delay_minutes": "",
+          "lanes_open": ""
         },
         "NEXUS_SENTRI_lanes": {
-          "update_time": "At 11:00 pm MDT",
-          "operational_status": "no delay",
-          "delay_minutes": "1",
-          "lanes_open": "1"
+          "update_time": "",
+          "operational_status": "Update Pending",
+          "delay_minutes": "",
+          "lanes_open": ""
         },
         "ready_lanes": {
-          "update_time": "At 11:00 pm MDT",
-          "operational_status": "delay",
-          "delay_minutes": "72",
-          "lanes_open": "4"
+          "update_time": "",
+          "operational_status": "Update Pending",
+          "delay_minutes": "",
+          "lanes_open": ""
         }
       },
       "pedestrian_lanes": {
         "maximum_lanes": "14",
         "standard_lanes": {
-          "update_time": "At 11:00 pm MDT",
-          "operational_status": "no delay",
-          "delay_minutes": "2",
-          "lanes_open": "1"
+          "update_time": "",
+          "operational_status": "Update Pending",
+          "delay_minutes": "",
+          "lanes_open": ""
         },
         "ready_lanes": {
-          "update_time": "At 11:00 pm MDT",
-          "operational_status": "no delay",
-          "delay_minutes": "2",
-          "lanes_open": "1"
+          "update_time": "",
+          "operational_status": "Update Pending",
+          "delay_minutes": "",
+          "lanes_open": ""
         }
       },
       "construction_notice": "Ready Lanes are open at PDN.  See www.getyouhome.gov for more information. Tune in to AM 1620 for border crossing information."
@@ -193,20 +193,20 @@
       "port_name": "El Paso",
       "crossing_name": "Stanton DCL",
       "hours": "6 am-Midnight",
-      "date": "8/22/2026",
-      "time": "23:34:05",
-      "port_status": "Open",
+      "date": "8/23/2026",
+      "time": "00:09:10",
+      "port_status": "Closed",
       "commercial_vehicle_lanes": {
         "maximum_lanes": "N/A",
         "standard_lanes": {
           "update_time": "",
-          "operational_status": "N/A",
+          "operational_status": "Update Pending",
           "delay_minutes": "",
           "lanes_open": ""
         },
         "FAST_lanes": {
           "update_time": "",
-          "operational_status": "N/A",
+          "operational_status": "Update Pending",
           "delay_minutes": "",
           "lanes_open": ""
         }
@@ -215,19 +215,19 @@
         "maximum_lanes": "3",
         "standard_lanes": {
           "update_time": "",
-          "operational_status": "Lanes Closed",
+          "operational_status": "Update Pending",
           "delay_minutes": "",
           "lanes_open": ""
         },
         "NEXUS_SENTRI_lanes": {
-          "update_time": "At 11:00 pm MDT",
-          "operational_status": "no delay",
-          "delay_minutes": "1",
-          "lanes_open": "2"
+          "update_time": "",
+          "operational_status": "Update Pending",
+          "delay_minutes": "",
+          "lanes_open": ""
         },
         "ready_lanes": {
           "update_time": "",
-          "operational_status": "N/A",
+          "operational_status": "Update Pending",
           "delay_minutes": "",
           "lanes_open": ""
         }
@@ -236,13 +236,13 @@
         "maximum_lanes": "N/A",
         "standard_lanes": {
           "update_time": "",
-          "operational_status": "N/A",
+          "operational_status": "Update Pending",
           "delay_minutes": "",
           "lanes_open": ""
         },
         "ready_lanes": {
           "update_time": "",
-          "operational_status": "N/A",
+          "operational_status": "Update Pending",
           "delay_minutes": "",
           "lanes_open": ""
         }
@@ -255,20 +255,20 @@
       "port_name": "El Paso",
       "crossing_name": "Ysleta",
       "hours": "24 hrs/day",
-      "date": "8/22/2026",
-      "time": "23:34:05",
+      "date": "8/23/2026",
+      "time": "00:09:10",
       "port_status": "Open",
       "commercial_vehicle_lanes": {
         "maximum_lanes": "8",
         "standard_lanes": {
           "update_time": "",
-          "operational_status": "Lanes Closed",
+          "operational_status": "Update Pending",
           "delay_minutes": "",
           "lanes_open": ""
         },
         "FAST_lanes": {
           "update_time": "",
-          "operational_status": "Lanes Closed",
+          "operational_status": "Update Pending",
           "delay_minutes": "",
           "lanes_open": ""
         }
@@ -277,34 +277,34 @@
         "maximum_lanes": "13",
         "standard_lanes": {
           "update_time": "",
-          "operational_status": "Lanes Closed",
+          "operational_status": "Update Pending",
           "delay_minutes": "",
           "lanes_open": ""
         },
         "NEXUS_SENTRI_lanes": {
-          "update_time": "At 11:00 pm MDT",
-          "operational_status": "delay",
-          "delay_minutes": "25",
-          "lanes_open": "2"
+          "update_time": "",
+          "operational_status": "Update Pending",
+          "delay_minutes": "",
+          "lanes_open": ""
         },
         "ready_lanes": {
-          "update_time": "At 11:00 pm MDT",
-          "operational_status": "delay",
-          "delay_minutes": "70",
-          "lanes_open": "1"
+          "update_time": "",
+          "operational_status": "Update Pending",
+          "delay_minutes": "",
+          "lanes_open": ""
         }
       },
       "pedestrian_lanes": {
         "maximum_lanes": "4",
         "standard_lanes": {
-          "update_time": "At 11:00 pm MDT",
-          "operational_status": "no delay",
-          "delay_minutes": "1",
-          "lanes_open": "2"
+          "update_time": "",
+          "operational_status": "Update Pending",
+          "delay_minutes": "",
+          "lanes_open": ""
         },
         "ready_lanes": {
           "update_time": "",
-          "operational_status": "N/A",
+          "operational_status": "Update Pending",
           "delay_minutes": "",
           "lanes_open": ""
         }
