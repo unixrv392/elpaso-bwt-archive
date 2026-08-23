@@ -27,7 +27,7 @@
     },
     "maximum_lanes": "13",
     "ready_lanes": {
-      "delay_minutes": "45",
+      "delay_minutes": "35",
       "lanes_open": "2",
       "operational_status": "delay",
       "update_time": "At 5:00 am MDT"
