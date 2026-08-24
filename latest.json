@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-24T01:55:34Z",
+  "fetched_at": "2026-08-24T03:05:37Z",
   "ports": [
     {
       "port_number": "240221",
@@ -8,7 +8,7 @@
       "crossing_name": "",
       "hours": "24 hrs/day",
       "date": "8/23/2026",
-      "time": "19:42:22",
+      "time": "20:52:40",
       "port_status": "Open",
       "commercial_vehicle_lanes": {
         "maximum_lanes": "6",
@@ -70,7 +70,7 @@
       "crossing_name": "Bridge of the Americas (BOTA)",
       "hours": "24 hrs/day",
       "date": "8/23/2026",
-      "time": "19:42:22",
+      "time": "20:52:40",
       "port_status": "Open",
       "commercial_vehicle_lanes": {
         "maximum_lanes": "3",
@@ -90,9 +90,9 @@
       "passenger_vehicle_lanes": {
         "maximum_lanes": "14",
         "standard_lanes": {
-          "update_time": "At 7:00 pm MDT",
+          "update_time": "At 9:00 pm MDT",
           "operational_status": "delay",
-          "delay_minutes": "63",
+          "delay_minutes": "70",
           "lanes_open": "3"
         },
         "NEXUS_SENTRI_lanes": {
@@ -102,18 +102,18 @@
           "lanes_open": ""
         },
         "ready_lanes": {
-          "update_time": "At 7:00 pm MDT",
+          "update_time": "At 9:00 pm MDT",
           "operational_status": "delay",
-          "delay_minutes": "61",
+          "delay_minutes": "65",
           "lanes_open": "6"
         }
       },
       "pedestrian_lanes": {
         "maximum_lanes": "4",
         "standard_lanes": {
-          "update_time": "At 7:00 pm MDT",
+          "update_time": "At 9:00 pm MDT",
           "operational_status": "no delay",
-          "delay_minutes": "4",
+          "delay_minutes": "6",
           "lanes_open": "2"
         },
         "ready_lanes": {
@@ -132,7 +132,7 @@
       "crossing_name": "Paso Del Norte (PDN)",
       "hours": "24 hrs/day",
       "date": "8/23/2026",
-      "time": "19:42:22",
+      "time": "20:52:40",
       "port_status": "Open",
       "commercial_vehicle_lanes": {
         "maximum_lanes": "N/A",
@@ -152,30 +152,30 @@
       "passenger_vehicle_lanes": {
         "maximum_lanes": "12",
         "standard_lanes": {
-          "update_time": "At 6:00 pm MDT",
+          "update_time": "At 8:00 pm MDT",
           "operational_status": "delay",
-          "delay_minutes": "95",
-          "lanes_open": "2"
-        },
-        "NEXUS_SENTRI_lanes": {
-          "update_time": "At 6:00 pm MDT",
-          "operational_status": "no delay",
-          "delay_minutes": "1",
+          "delay_minutes": "100",
           "lanes_open": "1"
         },
+        "NEXUS_SENTRI_lanes": {
+          "update_time": "At 8:00 pm MDT",
+          "operational_status": "no delay",
+          "delay_minutes": "5",
+          "lanes_open": "2"
+        },
         "ready_lanes": {
-          "update_time": "At 6:00 pm MDT",
+          "update_time": "At 8:00 pm MDT",
           "operational_status": "delay",
-          "delay_minutes": "90",
+          "delay_minutes": "95",
           "lanes_open": "3"
         }
       },
       "pedestrian_lanes": {
         "maximum_lanes": "14",
         "standard_lanes": {
-          "update_time": "At 6:00 pm MDT",
+          "update_time": "At 8:00 pm MDT",
           "operational_status": "delay",
-          "delay_minutes": "15",
+          "delay_minutes": "25",
           "lanes_open": "7"
         },
         "ready_lanes": {
@@ -194,7 +194,7 @@
       "crossing_name": "Stanton DCL",
       "hours": "6 am-Midnight",
       "date": "8/23/2026",
-      "time": "19:42:22",
+      "time": "20:52:40",
       "port_status": "Open",
       "commercial_vehicle_lanes": {
         "maximum_lanes": "N/A",
@@ -220,9 +220,9 @@
           "lanes_open": ""
         },
         "NEXUS_SENTRI_lanes": {
-          "update_time": "At 5:00 pm MDT",
+          "update_time": "At 8:00 pm MDT",
           "operational_status": "no delay",
-          "delay_minutes": "0",
+          "delay_minutes": "1",
           "lanes_open": "2"
         },
         "ready_lanes": {
@@ -256,7 +256,7 @@
       "crossing_name": "Ysleta",
       "hours": "24 hrs/day",
       "date": "8/23/2026",
-      "time": "19:42:22",
+      "time": "20:52:40",
       "port_status": "Open",
       "commercial_vehicle_lanes": {
         "maximum_lanes": "8",
@@ -282,22 +282,22 @@
           "lanes_open": ""
         },
         "NEXUS_SENTRI_lanes": {
-          "update_time": "At 7:00 pm MDT",
+          "update_time": "At 8:00 pm MDT",
           "operational_status": "no delay",
           "delay_minutes": "5",
           "lanes_open": "3"
         },
         "ready_lanes": {
-          "update_time": "At 7:00 pm MDT",
+          "update_time": "At 8:00 pm MDT",
           "operational_status": "delay",
-          "delay_minutes": "55",
-          "lanes_open": "5"
+          "delay_minutes": "60",
+          "lanes_open": "4"
         }
       },
       "pedestrian_lanes": {
         "maximum_lanes": "4",
         "standard_lanes": {
-          "update_time": "At 7:00 pm MDT",
+          "update_time": "At 8:00 pm MDT",
           "operational_status": "no delay",
           "delay_minutes": "1",
           "lanes_open": "2"
