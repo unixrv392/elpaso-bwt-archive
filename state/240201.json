@@ -4,14 +4,14 @@
     "FAST_lanes": {
       "delay_minutes": "",
       "lanes_open": "",
-      "operational_status": "Update Pending",
+      "operational_status": "Lanes Closed",
       "update_time": ""
     },
     "maximum_lanes": "3",
     "standard_lanes": {
       "delay_minutes": "",
       "lanes_open": "",
-      "operational_status": "Update Pending",
+      "operational_status": "Lanes Closed",
       "update_time": ""
     }
   },
@@ -22,21 +22,21 @@
     "NEXUS_SENTRI_lanes": {
       "delay_minutes": "",
       "lanes_open": "",
-      "operational_status": "Update Pending",
+      "operational_status": "N/A",
       "update_time": ""
     },
     "maximum_lanes": "14",
     "ready_lanes": {
-      "delay_minutes": "",
-      "lanes_open": "",
-      "operational_status": "Update Pending",
-      "update_time": ""
+      "delay_minutes": "45",
+      "lanes_open": "3",
+      "operational_status": "delay",
+      "update_time": "At Midnight MDT"
     },
     "standard_lanes": {
-      "delay_minutes": "",
-      "lanes_open": "",
-      "operational_status": "Update Pending",
-      "update_time": ""
+      "delay_minutes": "50",
+      "lanes_open": "2",
+      "operational_status": "delay",
+      "update_time": "At Midnight MDT"
     }
   },
   "pedestrian_lanes": {
@@ -44,14 +44,14 @@
     "ready_lanes": {
       "delay_minutes": "",
       "lanes_open": "",
-      "operational_status": "Update Pending",
+      "operational_status": "Lanes Closed",
       "update_time": ""
     },
     "standard_lanes": {
-      "delay_minutes": "",
-      "lanes_open": "",
-      "operational_status": "Update Pending",
-      "update_time": ""
+      "delay_minutes": "2",
+      "lanes_open": "1",
+      "operational_status": "no delay",
+      "update_time": "At Midnight MDT"
     }
   },
   "port_name": "El Paso",
