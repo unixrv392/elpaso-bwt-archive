@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-25T01:19:34Z",
+  "fetched_at": "2026-08-25T02:33:24Z",
   "ports": [
     {
       "port_number": "240221",
@@ -8,7 +8,7 @@
       "crossing_name": "",
       "hours": "24 hrs/day",
       "date": "8/24/2026",
-      "time": "19:14:07",
+      "time": "20:24:24",
       "port_status": "Open",
       "commercial_vehicle_lanes": {
         "maximum_lanes": "6",
@@ -70,7 +70,7 @@
       "crossing_name": "Bridge of the Americas (BOTA)",
       "hours": "24 hrs/day",
       "date": "8/24/2026",
-      "time": "19:14:07",
+      "time": "20:24:24",
       "port_status": "Open",
       "commercial_vehicle_lanes": {
         "maximum_lanes": "3",
@@ -90,9 +90,9 @@
       "passenger_vehicle_lanes": {
         "maximum_lanes": "14",
         "standard_lanes": {
-          "update_time": "At 7:00 pm MDT",
+          "update_time": "At 9:00 pm MDT",
           "operational_status": "delay",
-          "delay_minutes": "18",
+          "delay_minutes": "28",
           "lanes_open": "3"
         },
         "NEXUS_SENTRI_lanes": {
@@ -102,18 +102,18 @@
           "lanes_open": ""
         },
         "ready_lanes": {
-          "update_time": "At 7:00 pm MDT",
+          "update_time": "At 9:00 pm MDT",
           "operational_status": "delay",
-          "delay_minutes": "16",
+          "delay_minutes": "26",
           "lanes_open": "6"
         }
       },
       "pedestrian_lanes": {
         "maximum_lanes": "4",
         "standard_lanes": {
-          "update_time": "At 7:00 pm MDT",
+          "update_time": "At 9:00 pm MDT",
           "operational_status": "no delay",
-          "delay_minutes": "3",
+          "delay_minutes": "4",
           "lanes_open": "2"
         },
         "ready_lanes": {
@@ -132,7 +132,7 @@
       "crossing_name": "Paso Del Norte (PDN)",
       "hours": "24 hrs/day",
       "date": "8/24/2026",
-      "time": "19:14:07",
+      "time": "20:24:24",
       "port_status": "Open",
       "commercial_vehicle_lanes": {
         "maximum_lanes": "N/A",
@@ -152,36 +152,36 @@
       "passenger_vehicle_lanes": {
         "maximum_lanes": "12",
         "standard_lanes": {
-          "update_time": "At 7:00 pm MDT",
+          "update_time": "At 8:00 pm MDT",
           "operational_status": "delay",
-          "delay_minutes": "57",
+          "delay_minutes": "53",
           "lanes_open": "1"
         },
         "NEXUS_SENTRI_lanes": {
-          "update_time": "At 7:00 pm MDT",
+          "update_time": "At 8:00 pm MDT",
           "operational_status": "no delay",
           "delay_minutes": "1",
           "lanes_open": "1"
         },
         "ready_lanes": {
-          "update_time": "At 7:00 pm MDT",
+          "update_time": "At 8:00 pm MDT",
           "operational_status": "delay",
-          "delay_minutes": "55",
-          "lanes_open": "4"
+          "delay_minutes": "49",
+          "lanes_open": "3"
         }
       },
       "pedestrian_lanes": {
         "maximum_lanes": "14",
         "standard_lanes": {
-          "update_time": "At 7:00 pm MDT",
-          "operational_status": "delay",
-          "delay_minutes": "12",
+          "update_time": "At 8:00 pm MDT",
+          "operational_status": "no delay",
+          "delay_minutes": "5",
           "lanes_open": "2"
         },
         "ready_lanes": {
-          "update_time": "At 7:00 pm MDT",
-          "operational_status": "delay",
-          "delay_minutes": "10",
+          "update_time": "At 8:00 pm MDT",
+          "operational_status": "no delay",
+          "delay_minutes": "6",
           "lanes_open": "4"
         }
       },
@@ -194,7 +194,7 @@
       "crossing_name": "Stanton DCL",
       "hours": "6 am-Midnight",
       "date": "8/24/2026",
-      "time": "19:14:07",
+      "time": "20:24:24",
       "port_status": "Open",
       "commercial_vehicle_lanes": {
         "maximum_lanes": "N/A",
@@ -220,10 +220,10 @@
           "lanes_open": ""
         },
         "NEXUS_SENTRI_lanes": {
-          "update_time": "At 6:00 pm MDT",
+          "update_time": "At 8:00 pm MDT",
           "operational_status": "no delay",
-          "delay_minutes": "3",
-          "lanes_open": "3"
+          "delay_minutes": "2",
+          "lanes_open": "2"
         },
         "ready_lanes": {
           "update_time": "",
@@ -256,20 +256,20 @@
       "crossing_name": "Ysleta",
       "hours": "24 hrs/day",
       "date": "8/24/2026",
-      "time": "19:14:07",
+      "time": "20:24:24",
       "port_status": "Open",
       "commercial_vehicle_lanes": {
         "maximum_lanes": "8",
         "standard_lanes": {
-          "update_time": "At 6:00 pm MDT",
-          "operational_status": "delay",
-          "delay_minutes": "15",
+          "update_time": "At 8:00 pm MDT",
+          "operational_status": "no delay",
+          "delay_minutes": "5",
           "lanes_open": "4"
         },
         "FAST_lanes": {
-          "update_time": "At 6:00 pm MDT",
-          "operational_status": "delay",
-          "delay_minutes": "10",
+          "update_time": "At 8:00 pm MDT",
+          "operational_status": "no delay",
+          "delay_minutes": "5",
           "lanes_open": "3"
         }
       },
@@ -282,22 +282,22 @@
           "lanes_open": ""
         },
         "NEXUS_SENTRI_lanes": {
-          "update_time": "At 6:00 pm MDT",
+          "update_time": "At 8:00 pm MDT",
           "operational_status": "no delay",
           "delay_minutes": "1",
-          "lanes_open": "3"
+          "lanes_open": "2"
         },
         "ready_lanes": {
-          "update_time": "At 6:00 pm MDT",
+          "update_time": "At 8:00 pm MDT",
           "operational_status": "delay",
-          "delay_minutes": "25",
-          "lanes_open": "3"
+          "delay_minutes": "10",
+          "lanes_open": "4"
         }
       },
       "pedestrian_lanes": {
         "maximum_lanes": "4",
         "standard_lanes": {
-          "update_time": "At 6:00 pm MDT",
+          "update_time": "At 8:00 pm MDT",
           "operational_status": "no delay",
           "delay_minutes": "1",
           "lanes_open": "2"
