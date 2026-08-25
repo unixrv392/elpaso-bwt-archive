@@ -20,10 +20,10 @@
   "hours": "6 am-Midnight",
   "passenger_vehicle_lanes": {
     "NEXUS_SENTRI_lanes": {
-      "delay_minutes": "1",
-      "lanes_open": "1",
-      "operational_status": "no delay",
-      "update_time": "At 11:00 pm MDT"
+      "delay_minutes": "",
+      "lanes_open": "",
+      "operational_status": "Lanes Closed",
+      "update_time": ""
     },
     "maximum_lanes": "3",
     "ready_lanes": {
@@ -56,5 +56,5 @@
   },
   "port_name": "El Paso",
   "port_number": "240204",
-  "port_status": "Open"
+  "port_status": "Closed"
 }
