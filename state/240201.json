@@ -2,17 +2,17 @@
   "border": "Mexican Border",
   "commercial_vehicle_lanes": {
     "FAST_lanes": {
-      "delay_minutes": "",
-      "lanes_open": "",
-      "operational_status": "Lanes Closed",
-      "update_time": ""
+      "delay_minutes": "2",
+      "lanes_open": "2",
+      "operational_status": "no delay",
+      "update_time": "At 7:00 am MDT"
     },
     "maximum_lanes": "3",
     "standard_lanes": {
-      "delay_minutes": "",
-      "lanes_open": "",
-      "operational_status": "Lanes Closed",
-      "update_time": ""
+      "delay_minutes": "2",
+      "lanes_open": "2",
+      "operational_status": "no delay",
+      "update_time": "At 7:00 am MDT"
     }
   },
   "construction_notice": "BOTA Passenger/Ready Lanes is open west side of port; Passenger Hrs 24 hours/7days, BOTA CARGO Mon-FRI 6 am to 4 pm. SAT/SUN CLOSED. Tune into AM 1610 for info.",
