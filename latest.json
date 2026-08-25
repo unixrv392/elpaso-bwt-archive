@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-25T18:01:38Z",
+  "fetched_at": "2026-08-25T18:54:46Z",
   "ports": [
     {
       "port_number": "240221",
@@ -8,7 +8,7 @@
       "crossing_name": "",
       "hours": "24 hrs/day",
       "date": "8/25/2026",
-      "time": "11:58:33",
+      "time": "12:47:40",
       "port_status": "Open",
       "commercial_vehicle_lanes": {
         "maximum_lanes": "6",
@@ -70,21 +70,21 @@
       "crossing_name": "Bridge of the Americas (BOTA)",
       "hours": "24 hrs/day",
       "date": "8/25/2026",
-      "time": "11:58:33",
+      "time": "12:47:40",
       "port_status": "Open",
       "commercial_vehicle_lanes": {
         "maximum_lanes": "3",
         "standard_lanes": {
-          "update_time": "",
-          "operational_status": "Lanes Closed",
-          "delay_minutes": "",
-          "lanes_open": ""
+          "update_time": "At Noon MDT",
+          "operational_status": "delay",
+          "delay_minutes": "10",
+          "lanes_open": "2"
         },
         "FAST_lanes": {
-          "update_time": "",
-          "operational_status": "Lanes Closed",
-          "delay_minutes": "",
-          "lanes_open": ""
+          "update_time": "At Noon MDT",
+          "operational_status": "no delay",
+          "delay_minutes": "5",
+          "lanes_open": "2"
         }
       },
       "passenger_vehicle_lanes": {
@@ -132,7 +132,7 @@
       "crossing_name": "Paso Del Norte (PDN)",
       "hours": "24 hrs/day",
       "date": "8/25/2026",
-      "time": "11:58:33",
+      "time": "12:47:40",
       "port_status": "Open",
       "commercial_vehicle_lanes": {
         "maximum_lanes": "N/A",
@@ -194,7 +194,7 @@
       "crossing_name": "Stanton DCL",
       "hours": "6 am-Midnight",
       "date": "8/25/2026",
-      "time": "11:58:33",
+      "time": "12:47:40",
       "port_status": "Open",
       "commercial_vehicle_lanes": {
         "maximum_lanes": "N/A",
@@ -256,7 +256,7 @@
       "crossing_name": "Ysleta",
       "hours": "24 hrs/day",
       "date": "8/25/2026",
-      "time": "11:58:33",
+      "time": "12:47:40",
       "port_status": "Open",
       "commercial_vehicle_lanes": {
         "maximum_lanes": "8",
