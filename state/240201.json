@@ -27,31 +27,31 @@
     },
     "maximum_lanes": "14",
     "ready_lanes": {
-      "delay_minutes": "18",
-      "lanes_open": "2",
+      "delay_minutes": "10",
+      "lanes_open": "5",
       "operational_status": "delay",
-      "update_time": "At 11:00 pm MDT"
+      "update_time": "At 11:00 am MDT"
     },
     "standard_lanes": {
-      "delay_minutes": "20",
+      "delay_minutes": "15",
       "lanes_open": "2",
       "operational_status": "delay",
-      "update_time": "At 11:00 pm MDT"
+      "update_time": "At 11:00 am MDT"
     }
   },
   "pedestrian_lanes": {
     "maximum_lanes": "4",
     "ready_lanes": {
-      "delay_minutes": "",
-      "lanes_open": "",
-      "operational_status": "Lanes Closed",
-      "update_time": ""
-    },
-    "standard_lanes": {
-      "delay_minutes": "2",
+      "delay_minutes": "1",
       "lanes_open": "1",
       "operational_status": "no delay",
-      "update_time": "At 11:00 pm MDT"
+      "update_time": "At 11:00 am MDT"
+    },
+    "standard_lanes": {
+      "delay_minutes": "1",
+      "lanes_open": "1",
+      "operational_status": "no delay",
+      "update_time": "At 11:00 am MDT"
     }
   },
   "port_name": "El Paso",
