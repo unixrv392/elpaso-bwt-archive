@@ -2,17 +2,17 @@
   "border": "Mexican Border",
   "commercial_vehicle_lanes": {
     "FAST_lanes": {
-      "delay_minutes": "",
-      "lanes_open": "",
-      "operational_status": "Lanes Closed",
-      "update_time": ""
+      "delay_minutes": "5",
+      "lanes_open": "2",
+      "operational_status": "no delay",
+      "update_time": "At 10:00 am MDT"
     },
     "maximum_lanes": "3",
     "standard_lanes": {
-      "delay_minutes": "",
-      "lanes_open": "",
-      "operational_status": "Lanes Closed",
-      "update_time": ""
+      "delay_minutes": "5",
+      "lanes_open": "2",
+      "operational_status": "no delay",
+      "update_time": "At 10:00 am MDT"
     }
   },
   "construction_notice": "BOTA Passenger/Ready Lanes is open west side of port; Passenger Hrs 24 hours/7days, BOTA CARGO Mon-FRI 6 am to 4 pm. SAT/SUN CLOSED. Tune into AM 1610 for info.",
@@ -27,31 +27,31 @@
     },
     "maximum_lanes": "14",
     "ready_lanes": {
-      "delay_minutes": "10",
-      "lanes_open": "3",
+      "delay_minutes": "65",
+      "lanes_open": "6",
       "operational_status": "delay",
-      "update_time": "At 2:00 am MDT"
+      "update_time": "At 10:00 am MDT"
     },
     "standard_lanes": {
-      "delay_minutes": "12",
-      "lanes_open": "2",
+      "delay_minutes": "65",
+      "lanes_open": "3",
       "operational_status": "delay",
-      "update_time": "At 2:00 am MDT"
+      "update_time": "At 10:00 am MDT"
     }
   },
   "pedestrian_lanes": {
     "maximum_lanes": "4",
     "ready_lanes": {
-      "delay_minutes": "",
-      "lanes_open": "",
-      "operational_status": "Lanes Closed",
-      "update_time": ""
-    },
-    "standard_lanes": {
-      "delay_minutes": "1",
+      "delay_minutes": "3",
       "lanes_open": "1",
       "operational_status": "no delay",
-      "update_time": "At 2:00 am MDT"
+      "update_time": "At 10:00 am MDT"
+    },
+    "standard_lanes": {
+      "delay_minutes": "3",
+      "lanes_open": "1",
+      "operational_status": "no delay",
+      "update_time": "At 10:00 am MDT"
     }
   },
   "port_name": "El Paso",
