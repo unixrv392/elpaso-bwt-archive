@@ -20,10 +20,10 @@
   "hours": "6 am-Midnight",
   "passenger_vehicle_lanes": {
     "NEXUS_SENTRI_lanes": {
-      "delay_minutes": "2",
-      "lanes_open": "2",
+      "delay_minutes": "1",
+      "lanes_open": "1",
       "operational_status": "no delay",
-      "update_time": "At 6:00 pm MDT"
+      "update_time": "At 11:00 pm MDT"
     },
     "maximum_lanes": "3",
     "ready_lanes": {
