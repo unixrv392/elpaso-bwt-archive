@@ -5,14 +5,14 @@
       "delay_minutes": "35",
       "lanes_open": "3",
       "operational_status": "delay",
-      "update_time": "At 11:00 am MDT"
+      "update_time": "At Noon MDT"
     },
     "maximum_lanes": "8",
     "standard_lanes": {
       "delay_minutes": "45",
       "lanes_open": "5",
       "operational_status": "delay",
-      "update_time": "At 11:00 am MDT"
+      "update_time": "At Noon MDT"
     }
   },
   "construction_notice": "YSL Passenger/Ready Lanes is open west side of port; Passenger Hrs. 24 hours / 7 days, YSL CARGO Mon-FRI 6 am to Midnight. SAT 6 am to 2 pm. Tune into AM 1610 for info.\r\n\r\n\r\n",
@@ -23,14 +23,14 @@
       "delay_minutes": "5",
       "lanes_open": "3",
       "operational_status": "no delay",
-      "update_time": "At 11:00 am MDT"
+      "update_time": "At Noon MDT"
     },
     "maximum_lanes": "13",
     "ready_lanes": {
       "delay_minutes": "15",
       "lanes_open": "3",
       "operational_status": "delay",
-      "update_time": "At 11:00 am MDT"
+      "update_time": "At Noon MDT"
     },
     "standard_lanes": {
       "delay_minutes": "",
@@ -51,7 +51,7 @@
       "delay_minutes": "10",
       "lanes_open": "2",
       "operational_status": "delay",
-      "update_time": "At 11:00 am MDT"
+      "update_time": "At Noon MDT"
     }
   },
   "port_name": "El Paso",
