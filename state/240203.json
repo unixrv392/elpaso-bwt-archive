@@ -2,14 +2,14 @@
   "border": "Mexican Border",
   "commercial_vehicle_lanes": {
     "FAST_lanes": {
-      "delay_minutes": "25",
+      "delay_minutes": "20",
       "lanes_open": "3",
       "operational_status": "delay",
       "update_time": "At 4:00 pm MDT"
     },
     "maximum_lanes": "8",
     "standard_lanes": {
-      "delay_minutes": "40",
+      "delay_minutes": "30",
       "lanes_open": "5",
       "operational_status": "delay",
       "update_time": "At 4:00 pm MDT"
@@ -20,15 +20,15 @@
   "hours": "24 hrs/day",
   "passenger_vehicle_lanes": {
     "NEXUS_SENTRI_lanes": {
-      "delay_minutes": "5",
+      "delay_minutes": "1",
       "lanes_open": "3",
       "operational_status": "no delay",
       "update_time": "At 4:00 pm MDT"
     },
     "maximum_lanes": "13",
     "ready_lanes": {
-      "delay_minutes": "15",
-      "lanes_open": "2",
+      "delay_minutes": "60",
+      "lanes_open": "3",
       "operational_status": "delay",
       "update_time": "At 4:00 pm MDT"
     },
