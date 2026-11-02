@@ -21,9 +21,9 @@
   "passenger_vehicle_lanes": {
     "NEXUS_SENTRI_lanes": {
       "delay_minutes": "1",
-      "lanes_open": "3",
+      "lanes_open": "2",
       "operational_status": "no delay",
-      "update_time": "At 2:00 pm MST"
+      "update_time": "At 6:00 pm MST"
     },
     "maximum_lanes": "3",
     "ready_lanes": {
