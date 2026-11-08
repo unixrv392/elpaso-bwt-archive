@@ -21,16 +21,16 @@
   "passenger_vehicle_lanes": {
     "NEXUS_SENTRI_lanes": {
       "delay_minutes": "1",
-      "lanes_open": "2",
+      "lanes_open": "3",
       "operational_status": "no delay",
-      "update_time": "At 9:00 am MST"
+      "update_time": "At 11:00 am MST"
     },
     "maximum_lanes": "13",
     "ready_lanes": {
-      "delay_minutes": "70",
+      "delay_minutes": "60",
       "lanes_open": "4",
       "operational_status": "delay",
-      "update_time": "At 9:00 am MST"
+      "update_time": "At 11:00 am MST"
     },
     "standard_lanes": {
       "delay_minutes": "",
@@ -51,7 +51,7 @@
       "delay_minutes": "1",
       "lanes_open": "2",
       "operational_status": "no delay",
-      "update_time": "At 9:00 am MST"
+      "update_time": "At 11:00 am MST"
     }
   },
   "port_name": "El Paso",
