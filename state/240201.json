@@ -27,16 +27,16 @@
     },
     "maximum_lanes": "14",
     "ready_lanes": {
-      "delay_minutes": "74",
+      "delay_minutes": "81",
       "lanes_open": "6",
       "operational_status": "delay",
-      "update_time": "At Noon MST"
+      "update_time": "At 4:00 pm MST"
     },
     "standard_lanes": {
-      "delay_minutes": "79",
+      "delay_minutes": "84",
       "lanes_open": "3",
       "operational_status": "delay",
-      "update_time": "At Noon MST"
+      "update_time": "At 4:00 pm MST"
     }
   },
   "pedestrian_lanes": {
@@ -51,7 +51,7 @@
       "delay_minutes": "2",
       "lanes_open": "2",
       "operational_status": "no delay",
-      "update_time": "At Noon MST"
+      "update_time": "At 4:00 pm MST"
     }
   },
   "port_name": "El Paso",
