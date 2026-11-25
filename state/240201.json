@@ -2,17 +2,17 @@
   "border": "Mexican Border",
   "commercial_vehicle_lanes": {
     "FAST_lanes": {
-      "delay_minutes": "",
-      "lanes_open": "",
-      "operational_status": "Lanes Closed",
-      "update_time": ""
+      "delay_minutes": "5",
+      "lanes_open": "2",
+      "operational_status": "no delay",
+      "update_time": "At 9:00 am MST"
     },
     "maximum_lanes": "3",
     "standard_lanes": {
-      "delay_minutes": "",
-      "lanes_open": "",
-      "operational_status": "Lanes Closed",
-      "update_time": ""
+      "delay_minutes": "10",
+      "lanes_open": "2",
+      "operational_status": "delay",
+      "update_time": "At 9:00 am MST"
     }
   },
   "construction_notice": "BOTA Passenger/Ready Lanes is open west side of port; Passenger Hrs 24 hours/7days, BOTA CARGO Mon-FRI 6 am to 4 pm. SAT/SUN CLOSED. Tune into AM 1610 for info.",
@@ -33,10 +33,10 @@
       "update_time": ""
     },
     "standard_lanes": {
-      "delay_minutes": "63",
-      "lanes_open": "5",
-      "operational_status": "delay",
-      "update_time": "At 11:00 pm MST"
+      "delay_minutes": "",
+      "lanes_open": "",
+      "operational_status": "Lanes Closed",
+      "update_time": ""
     }
   },
   "pedestrian_lanes": {
@@ -48,10 +48,10 @@
       "update_time": ""
     },
     "standard_lanes": {
-      "delay_minutes": "2",
-      "lanes_open": "2",
-      "operational_status": "no delay",
-      "update_time": "At 11:00 pm MST"
+      "delay_minutes": "",
+      "lanes_open": "",
+      "operational_status": "Lanes Closed",
+      "update_time": ""
     }
   },
   "port_name": "El Paso",
